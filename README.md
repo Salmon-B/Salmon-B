@@ -32,19 +32,19 @@ Focused on building practical security knowledge and transitioning into full-tim
 
 ## 📂 Featured Projects
 
-### 🔐 NIST-Compliance-Toolkit *(In Progress)*
+### 🔐 NIST-Compliance-Toolkit 
 
 Security policies, audit checklists, and compliance templates based on NIST framework.
 
-### 🚨 SOC-Alert-Triage-Playbooks *(In Progress)*
+### 🚨 SOC-Alert-Triage-Playbooks 
 
 Step-by-step incident response playbooks for common alerts.
 
-### 🎣 Phishing-Awareness-Campaign *(In Progress)*
+### 🎣 Phishing-Awareness-Campaign 
 
 Case study of phishing simulations with metrics and reporting.
 
-### 📊 PowerBI-Security-Dashboards *(In Progress)*
+### 📊 PowerBI-Security-Dashboards 
 
 Security metrics dashboards for risk and compliance reporting.
 
